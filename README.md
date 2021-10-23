@@ -1,2 +1,3 @@
 # Saels_predection
-כגינגכע
+Predicting company sales through machine learning algorithem:
+ANN,DT,Boosting,SVM
